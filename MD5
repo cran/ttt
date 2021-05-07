@@ -1,0 +1,16 @@
+78ac3d550b776913bea768af686952a0 *DESCRIPTION
+d65b452e2bfae176e3a0282b6fcd8971 *NAMESPACE
+dd7a0c724f8f1ad631b1be04ecc245cc *NEWS.md
+cc6684e6828f29e3688c95f66dbe9917 *R/ttt.R
+db4393175ec7dffa2321b35b3eb2c394 *README.md
+93df617de5e5ca2755ecb043b52f7ebe *build/vignette.rds
+36f482e605c08980a50c7a38e708b32e *inst/doc/ttt-intro.R
+36756cdf0bd489aacdefd805c51258a8 *inst/doc/ttt-intro.Rmd
+173e31d466896130fe3725d3bb4a7603 *inst/doc/ttt-intro.html
+74fcfe9bb0b2ab2219aeec72f89134e6 *inst/ttt_booktabs_1.0/ttt_booktabs.css
+0bdd0a97032f2ae819a7acbc4e61fdf3 *inst/ttt_default_1.0/ttt_default.css
+430317eaa99df46863b2a9f03a8e335f *man/knit_print.ttt.Rd
+ed371f1597fd38ba5636923fe3140a7a *man/print.ttt.Rd
+22a1d3f70dc426a0741f68e71b8059d8 *man/ttt.Rd
+36756cdf0bd489aacdefd805c51258a8 *vignettes/ttt-intro.Rmd
+254a86b6036c219d41806822cb8141c8 *vignettes/vignette.css
